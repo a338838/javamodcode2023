@@ -1,0 +1,5 @@
+{
+    "variants":{
+        "": { "model": "indicium:block/order_crystal_block"}
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "variants":{
+        "": { "model": "indicium:block/chaos_crystal_block"}
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "indicium:air_crystal_block",
+    "indicium:fire_crystal_block",
+    "indicium:water_crystal_block",
+    "indicium:earth_crystal_block",
+    "indicium:electric_crystal_block",
+    "indicium:order_crystal_block",
+    "indicium:chaos_crystal_block"
+  ]
+}

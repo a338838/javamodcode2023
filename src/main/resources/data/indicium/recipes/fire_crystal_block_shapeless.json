@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "indicium:fire_crystal"
+    },
+    {
+      "item": "indicium:fire_crystal"
+    },
+    {
+      "item": "indicium:fire_crystal"
+    },
+    {
+      "item": "indicium:fire_crystal"
+    },
+    {
+      "item": "indicium:fire_crystal"
+    },
+    {
+      "item": "indicium:fire_crystal"
+    },
+    {
+      "item": "indicium:fire_crystal"
+    }
+  ],
+  "result": {
+    "item": "indicium:fire_crystal_block",
+    "count": 1
+  }
+}

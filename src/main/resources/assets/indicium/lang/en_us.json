@@ -1,0 +1,20 @@
+{
+  "item.indicium.air_crystal": "Air Crystal",
+  "item.indicium.fire_crystal": "Fire Crystal",
+  "item.indicium.water_crystal": "Water Crystal",
+  "item.indicium.earth_crystal": "Earth Crystal",
+  "item.indicium.electric_crystal": "Electric Crystal",
+  "item.indicium.order_crystal": "Order Crystal",
+  "item.indicium.chaos_crystal": "Chaos Crystal",
+
+  "block.indicium.air_crystal_block": "Block of Air Crystal",
+  "block.indicium.fire_crystal_block": "Block of Fire Crystal",
+  "block.indicium.water_crystal_block": "Block of Water Crystal",
+  "block.indicium.earth_crystal_block": "Block of Earth Crystal",
+  "block.indicium.electric_crystal_block": "Block of Electric Crystal",
+  "block.indicium.order_crystal_block": "Block of Order Crystal",
+  "block.indicium.chaos_crystal_block": "Block of Chaos Crystal",
+
+
+  "itemGroup.indiciummodtab": "Indicium Creationis"
+}

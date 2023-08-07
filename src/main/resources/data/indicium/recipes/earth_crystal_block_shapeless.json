@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "indicium:earth_crystal"
+    },
+    {
+      "item": "indicium:earth_crystal"
+    },
+    {
+      "item": "indicium:earth_crystal"
+    },
+    {
+      "item": "indicium:earth_crystal"
+    },
+    {
+      "item": "indicium:earth_crystal"
+    },
+    {
+      "item": "indicium:earth_crystal"
+    },
+    {
+      "item": "indicium:earth_crystal"
+    }
+  ],
+  "result": {
+    "item": "indicium:earth_crystal_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "indicium:order_crystal"
+    },
+    {
+      "item": "indicium:order_crystal"
+    },
+    {
+      "item": "indicium:order_crystal"
+    },
+    {
+      "item": "indicium:order_crystal"
+    },
+    {
+      "item": "indicium:order_crystal"
+    },
+    {
+      "item": "indicium:order_crystal"
+    },
+    {
+      "item": "indicium:order_crystal"
+    }
+  ],
+  "result": {
+    "item": "indicium:order_crystal_block",
+    "count": 1
+  }
+}

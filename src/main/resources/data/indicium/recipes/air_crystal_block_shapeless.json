@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "indicium:air_crystal"
+    },
+    {
+      "item": "indicium:air_crystal"
+    },
+    {
+      "item": "indicium:air_crystal"
+    },
+    {
+      "item": "indicium:air_crystal"
+    },
+    {
+      "item": "indicium:air_crystal"
+    },
+    {
+      "item": "indicium:air_crystal"
+    },
+    {
+      "item": "indicium:air_crystal"
+    }
+  ],
+  "result": {
+    "item": "indicium:air_crystal_block",
+    "count": 1
+  }
+}

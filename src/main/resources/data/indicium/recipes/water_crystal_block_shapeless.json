@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "indicium:water_crystal"
+    },
+    {
+      "item": "indicium:water_crystal"
+    },
+    {
+      "item": "indicium:water_crystal"
+    },
+    {
+      "item": "indicium:water_crystal"
+    },
+    {
+      "item": "indicium:water_crystal"
+    },
+    {
+      "item": "indicium:water_crystal"
+    },
+    {
+      "item": "indicium:water_crystal"
+    }
+  ],
+  "result": {
+    "item": "indicium:water_crystal_block",
+    "count": 1
+  }
+}

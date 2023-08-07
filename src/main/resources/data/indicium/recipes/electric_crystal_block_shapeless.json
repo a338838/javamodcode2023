@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "indicium:electric_crystal"
+    },
+    {
+      "item": "indicium:electric_crystal"
+    },
+    {
+      "item": "indicium:electric_crystal"
+    },
+    {
+      "item": "indicium:electric_crystal"
+    },
+    {
+      "item": "indicium:electric_crystal"
+    },
+    {
+      "item": "indicium:electric_crystal"
+    },
+    {
+      "item": "indicium:electric_crystal"
+    }
+  ],
+  "result": {
+    "item": "indicium:electric_crystal_block",
+    "count": 1
+  }
+}

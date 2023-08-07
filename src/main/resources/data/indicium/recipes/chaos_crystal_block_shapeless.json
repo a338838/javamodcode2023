@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "indicium:chaos_crystal"
+    },
+    {
+      "item": "indicium:chaos_crystal"
+    },
+    {
+      "item": "indicium:chaos_crystal"
+    },
+    {
+      "item": "indicium:chaos_crystal"
+    },
+    {
+      "item": "indicium:chaos_crystal"
+    },
+    {
+      "item": "indicium:chaos_crystal"
+    },
+    {
+      "item": "indicium:chaos_crystal"
+    }
+  ],
+  "result": {
+    "item": "indicium:chaos_crystal_block",
+    "count": 1
+  }
+}
